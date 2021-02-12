@@ -15,6 +15,7 @@
 		9E4EC2CD25D5D82F00DB89DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E4EC2CB25D5D82F00DB89DF /* LaunchScreen.storyboard */; };
 		9E4EC2D825D5D82F00DB89DF /* DelegationDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E4EC2D725D5D82F00DB89DF /* DelegationDemoTests.swift */; };
 		9E4EC2E325D5D82F00DB89DF /* DelegationDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E4EC2E225D5D82F00DB89DF /* DelegationDemoUITests.swift */; };
+		9E4EC2FF25D5E03500DB89DF /* ViceSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E4EC2F325D5DA9000DB89DF /* ViceSelectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9E4EC2DE25D5D82F00DB89DF /* DelegationDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DelegationDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E4EC2E225D5D82F00DB89DF /* DelegationDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelegationDemoUITests.swift; sourceTree = "<group>"; };
 		9E4EC2E425D5D82F00DB89DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E4EC2F325D5DA9000DB89DF /* ViceSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViceSelectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				9E4EC2C625D5D82D00DB89DF /* Main.storyboard */,
 				9E4EC2C925D5D82F00DB89DF /* Assets.xcassets */,
 				9E4EC2CB25D5D82F00DB89DF /* LaunchScreen.storyboard */,
+				9E4EC2F325D5DA9000DB89DF /* ViceSelectionViewController.swift */,
 				9E4EC2CE25D5D82F00DB89DF /* Info.plist */,
 			);
 			path = DelegationDemo;
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E4EC2FF25D5E03500DB89DF /* ViceSelectionViewController.swift in Sources */,
 				9E4EC2C525D5D82D00DB89DF /* ViewController.swift in Sources */,
 				9E4EC2C125D5D82D00DB89DF /* AppDelegate.swift in Sources */,
 				9E4EC2C325D5D82D00DB89DF /* SceneDelegate.swift in Sources */,
